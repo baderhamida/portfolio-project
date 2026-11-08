@@ -24,3 +24,7 @@ This website introduces me and showcases my skills and projects.
 - Added navigation and contact form.
 - Added website styling.
 - Added a blog section with two articles.
+
+## Git Workflow
+
+This project uses Git branches, commits, tags, and GitHub collaboration.
