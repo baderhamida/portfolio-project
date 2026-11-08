@@ -17,3 +17,10 @@ This website introduces me and showcases my skills and projects.
 - CSS
 - Git
 - GitHub
+
+## Version 1.0
+
+- Added the portfolio website pages.
+- Added navigation and contact form.
+- Added website styling.
+- Added a blog section with two articles.
